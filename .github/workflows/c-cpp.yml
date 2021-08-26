@@ -17,5 +17,6 @@ jobs:
         g++ -O0 -g -W -Wall -pedantic -std=c++11 main.cpp 
     - name: make
       run: |
-        ./a.out 
-        1
+        ./a.out
+        
+        
