@@ -11,7 +11,7 @@ void calcular (){
 		cout << "\nValor é maior que 10! "<<endl;
 	}
 	else {
-		cout << "\nValor é menor ou igual a 10!" <<endl;
+		cout << "\nValor é menor ou igual a 10!" <<endl
 	}
 }
 
